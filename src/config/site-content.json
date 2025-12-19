@@ -58,6 +58,13 @@
 			"value": "2541804356",
 			"label": "",
 			"order": 2
+		},
+		{
+			"id": "button-1766145653525",
+			"type": "github",
+			"value": "https://github.com/Doulor/TBlog",
+			"label": "",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,

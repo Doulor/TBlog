@@ -30,24 +30,16 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
-		},
-		{
-			"id": "url-1766122102740",
-			"url": "https://img.firef.dpdns.org/reality/IMG_20251209_162134.webp"
 		}
 	],
-	"currentArtImageId": "url-1766122102740",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
-		},
-		{
-			"id": "315df30f090c64aa",
-			"url": "/images/background/315df30f090c64aa.jpg"
 		}
 	],
-	"currentBackgroundImageId": "315df30f090c64aa",
+	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
 			"id": "github",

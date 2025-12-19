@@ -1,0 +1,2 @@
+# 仅保留 Pages 构建产物路径
+pages_build_output_dir = ".next"

@@ -9,7 +9,7 @@
     "date": "2025-11-21",
     "summary": "很简单就能实现这个液态玻璃效果，真棒",
     "cover": "/blogs/liquid-grass/0e7190ecaedc4930.png",
-    "category": "代码实现"
+    "category": "示例"
   },
   {
     "slug": "retro-grid",
@@ -21,7 +21,7 @@
     "date": "2025-10-14",
     "summary": "网站设计中，网格实现的研究",
     "cover": "/blogs/retro-grid/5f88408967c22d252c82ae65d1479d7dd9514921123fd4aeb372dd219037f708.png",
-    "category": "代码实现"
+    "category": "示例"
   },
   {
     "slug": "globe",
@@ -33,6 +33,7 @@
     ],
     "date": "2025-07-23",
     "summary": "一个简单的地球效果演示",
-    "cover": "/blogs/globe/b4abb83bdf919afd34a7934f9623e0ac7492151377c84f59005458b13b017fab.png"
+    "cover": "/blogs/globe/b4abb83bdf919afd34a7934f9623e0ac7492151377c84f59005458b13b017fab.png",
+    "category": "示例"
   }
 ]

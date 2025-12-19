@@ -30,9 +30,13 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "fafb85f9dd9d1673",
+			"url": "/images/art/fafb85f9dd9d1673.png"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "fafb85f9dd9d1673",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -42,30 +46,23 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "button-1766142172729",
-			"type": "qq",
-			"value": "2541804356",
+			"id": "button-1766142171828",
+			"type": "wechat",
+			"value": "xiaoxi73350ah",
 			"label": "",
 			"order": 1
 		},
 		{
-			"id": "button-1766142171828",
-			"type": "wechat",
-			"value": "xiaoxi7350ah",
+			"id": "button-1766142172729",
+			"type": "qq",
+			"value": "2541804356",
 			"label": "",
 			"order": 2
-		},
-		{
-			"id": "button-1766145653525",
-			"type": "github",
-			"value": "https://github.com/Doulor/TBlog",
-			"label": "Github",
-			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
 	"summaryInContent": false,
-	"isCachePem": true,
+	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
 	"currentHatIndex": 4,

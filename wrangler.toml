@@ -9,9 +9,6 @@ pages_build_output_dir = ".open-next"
 directory = ".open-next/assets"
 binding = "ASSETS"
 
-[build]
-command = "pnpm run build:cf"
-
 [observability]
 [observability.logs]
 enabled = true

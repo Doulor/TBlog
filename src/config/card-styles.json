@@ -37,8 +37,8 @@
 		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -128,
+		"offsetY": 265,
 		"enabled": true
 	},
 	"socialButtons": {
@@ -55,7 +55,7 @@
 		"order": 7,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": true
+		"enabled": false
 	},
 	"articleCard": {
 		"width": 266,
@@ -82,11 +82,11 @@
 		"enabled": true
 	},
 	"likePosition": {
-		"width": 54,
+		"width": 55,
 		"height": 54,
 		"order": 8,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": 195,
+		"offsetY": 255,
 		"enabled": true
 	},
 	"hatCard": {

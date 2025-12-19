@@ -1,3 +1,4 @@
+# Configuration updated to fix Cloudflare Pages deployment
 main = ".open-next/worker.js"
 name = "2025-blog-public"
 compatibility_date = "2025-03-25"

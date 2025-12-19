@@ -48,7 +48,7 @@
 		{
 			"id": "button-1766142171828",
 			"type": "wechat",
-			"value": "xiaoxi73350ah",
+			"value": "/images/social-buttons/e801a978a33a08f9.PNG",
 			"label": "",
 			"order": 1
 		},
@@ -63,7 +63,7 @@
 			"id": "button-1766145653525",
 			"type": "github",
 			"value": "https://github.com/Doulor/TBlog",
-			"label": "",
+			"label": "Github",
 			"order": 3
 		}
 	],

@@ -3,12 +3,11 @@ name = "2025-blog-public"
 compatibility_date = "2025-03-25"
 compatibility_flags = ["nodejs_compat"]
 
+pages_build_output_dir = ".open-next"
+
 [assets]
 directory = ".open-next/assets"
-binding = "ASSETS"
-
-[build]
-command = "pnpm run build:cf"
+binding = "ASSETS_BINDING"
 
 [observability]
 [observability.logs]

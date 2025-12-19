@@ -36,7 +36,7 @@
 			"url": "/images/art/fafb85f9dd9d1673.png"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "fafb85f9dd9d1673",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -57,7 +57,7 @@
 			"type": "qq",
 			"value": "2541804356",
 			"label": "",
-			"order": 2
+			"order": 1
 		}
 	],
 	"clockShowSeconds": false,

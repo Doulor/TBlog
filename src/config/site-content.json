@@ -32,11 +32,11 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		},
 		{
-			"id": "fafb85f9dd9d1673",
-			"url": "/images/art/fafb85f9dd9d1673.png"
+			"id": "961b15fbdecc501b",
+			"url": "/images/art/961b15fbdecc501b.webp"
 		}
 	],
-	"currentArtImageId": "fafb85f9dd9d1673",
+	"currentArtImageId": "961b15fbdecc501b",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -46,7 +46,7 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "button-1766142171828",
+			"id": "button-1766146549874",
 			"type": "wechat",
 			"value": "xiaoxi7350ah",
 			"label": "",
